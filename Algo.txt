@@ -1,7 +1,7 @@
 
 Pizza Price     
     Expeneisve 25$
-    Cheap 5$
+    Chea 5$
 
     1A.Decide if your hungry for pizza if true go to step 2.
         2.  Do you want a expensive pizza or cheap pizza if Expensive go to A if cheap go to B
